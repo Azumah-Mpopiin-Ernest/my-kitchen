@@ -1,6 +1,6 @@
 import Home from "./Home";
 import SignUp from "./SignUp";
-import Profile from "./profile";
+import Profile from "./Profile";
 import { Routes, Route } from "react-router";
 
 export default function App() {
